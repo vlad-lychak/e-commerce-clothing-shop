@@ -104,7 +104,7 @@ This is an e-commerce website built with JavaScript, Gulp, Webpack, Pug, and Sas
 
 ## Contact
 
-Vladislav Lychak - [@LinkedIn](https://www.linkedin.com/in/vladislav-lychak/) - lycakvladislav@gmail.com
+Vladislav Lychak - [@LinkedIn](https://www.linkedin.com/in/vlad-lychak/) - lycakvladislav@gmail.com
 
 Project Link: [https://lychakvlad.github.io/e-commerce-clothing-shop/](https://lychakvlad.github.io/e-commerce-clothing-shop/)
 
